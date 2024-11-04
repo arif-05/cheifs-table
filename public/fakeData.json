@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_image": "https://i.ibb.co.com/7W8KH03/suad-kamardeen-ts-ef2ll5-Gg-unsplash.jpg",
+      "recipe_name": "Grilled Chicken with Basil",
+      "short_description": "A delicious and flavorful grilled chicken dish with fresh basil.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_id": 2,
+      "recipe_image": "https://i.ibb.co.com/mBffnSM/brooke-lark-j-UPOXXRNdc-A-unsplash.jpg",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "A classic Italian pasta dish with rich meat sauce.",
+      "ingredients": [
+        "400 g spaghetti",
+        "500 g ground beef",
+        "1 can tomato sauce",
+        "100 g parmesan cheese",
+        "2 cloves garlic"
+      ],
+      "preparing_time": 45 ,
+      "calories": 600 
+    },
+    {
+      "recipe_id": 3,
+      "recipe_image": "https://i.ibb.co.com/YcXf4Rj/louis-hansel-Ml-PD-Az-ZYMg-unsplash.jpg",
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "A quick and healthy stir-fry with mixed vegetables.",
+      "ingredients": [
+        "200 g broccoli",
+        "150 g bell pepper",
+        "100 g carrots",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil"
+      ],
+      "preparing_time": 20 ,
+      "calories": 250 
+    },
+    {
+      "recipe_id": 4,
+      "recipe_image": "https://i.ibb.co.com/7W8KH03/suad-kamardeen-ts-ef2ll5-Gg-unsplash.jpg",
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "A creamy risotto made with mushrooms and parmesan cheese.",
+      "ingredients": [
+        "300 g arborio rice",
+        "400 g mushrooms",
+        "1 onion",
+        "100 g parmesan cheese",
+        "2 tbsp butter"
+      ],
+      "preparing_time": 40 ,
+      "calories": 400 
+    },
+    {
+      "recipe_id": 5,
+      "recipe_image": "https://i.ibb.co.com/mBffnSM/brooke-lark-j-UPOXXRNdc-A-unsplash.jpg",
+      "recipe_name": "Greek Salad",
+      "short_description": "A refreshing salad with cucumbers, tomatoes, olives, and feta cheese.",
+      "ingredients": [
+        "2 cucumbers",
+        "3 tomatoes",
+        "100 g feta cheese",
+        "50 g olives",
+        "1 tbsp olive oil"
+      ],
+      "preparing_time": 15,
+      "calories": 180
+    },
+    {
+      "recipe_id": 6,
+      "recipe_image": "https://i.ibb.co.com/YcXf4Rj/louis-hansel-Ml-PD-Az-ZYMg-unsplash.jpg",
+      "recipe_name": "Chocolate Brownies",
+      "short_description": "Rich and fudgy brownies with a hint of vanilla.",
+      "ingredients": [
+        "200 g dark chocolate",
+        "150 g butter",
+        "200 g sugar",
+        "100 g flour",
+        "2 eggs"
+      ],
+      "preparing_time": 35 ,
+      "calories": 450
+    }
+  ]
+  
